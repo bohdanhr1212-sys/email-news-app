@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d4d7090-3acc-4467-8dc6-0fe2d3f1ee5a" name="Changes" comment="initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/task2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/task2.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -29,12 +30,71 @@
     &quot;assignee&quot;: &quot;bohdanhr1212-sys&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/bohdanhr1212-sys/email-news-app.git&quot;,
-    &quot;accountId&quot;: &quot;d5105dfe-2c34-4ff8-9cbe-36a0ae00a79f&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/bohdanhr1212-sys/email-news-app.git",
+    "accountId": "d688f6fa-1f26-4cbc-8f1a-07c8c020595a"
   }
-}</component>
+}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000281501363268" />
+      <entry key="S5" value="1.0152480523244576" />
+      <entry key="S10" value="1.1470812459593827" />
+      <entry key="S30" value="2.4874057440990844" />
+      <entry key="S60" value="4.481491518271614" />
+      <entry key="M2" value="7.5017495228077635" />
+      <entry key="M5" value="14.910711749246513" />
+      <entry key="M10" value="22.35913481254744" />
+      <entry key="M15" value="26.305433120545672" />
+      <entry key="M30" value="31.393687565970193" />
+      <entry key="H1" value="34.47896386921949" />
+      <entry key="H2" value="36.18102172755504" />
+      <entry key="H4" value="37.075363863411866" />
+      <entry key="D1" value="37.84374344196454" />
+      <entry key="W1" value="37.97762434698752" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.004016069635375257" />
+      <entry key="MS500" value="0.33171128514929044" />
+      <entry key="S2" value="0.7589375724820886" />
+      <entry key="S5" value="0.9107117824716422" />
+      <entry key="S10" value="1.091846453945164" />
+      <entry key="S30" value="2.449966014207511" />
+      <entry key="S60" value="4.4454721534072785" />
+      <entry key="M2" value="7.471239433924217" />
+      <entry key="M5" value="14.889974829976845" />
+      <entry key="M10" value="22.345725867080606" />
+      <entry key="M15" value="26.295565081410874" />
+      <entry key="M30" value="31.38819990619351" />
+      <entry key="H1" value="34.47606152655613" />
+      <entry key="H2" value="36.17952806644547" />
+      <entry key="H4" value="37.07460602822195" />
+      <entry key="D1" value="37.8436155740278" />
+      <entry key="W1" value="37.97760604143739" />
+    </decayedShown>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -46,18 +106,29 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.main.executor": "Debug",
+    "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "to.speed.mode.migration.done": "true"
   }
 }]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-164cda30dcd9-0af03a5fa574-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.26830.99" />
+        <option value="bundled-python-sdk-eff1e8def5f5-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.10315.174" />
       </set>
     </attachedChunks>
   </component>
@@ -68,6 +139,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1790150948713</updated>
+      <workItem from="1790796770059" duration="888000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -80,6 +152,9 @@
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
@@ -90,5 +165,8 @@
         <watch expression="content" />
       </configuration>
     </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/email_news_app$main.coverage" NAME="main Coverage Results" MODIFIED="1790797658806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
